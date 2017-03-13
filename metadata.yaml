@@ -1,5 +1,8 @@
 _repo: The-Rape-of-Lucrece_1506
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
 description: The rape of Lucrece -- The passionate pilgrim -- Sonnets to music --
   The phoenix and turtle.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1506#The-Rape-of-Lucrece
 gutenberg_issued: '1998-10-01'
 gutenberg_type: Text
 identifiers:
